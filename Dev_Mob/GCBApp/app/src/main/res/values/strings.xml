@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GCBApp</string>
+    <string name="mensagem_login">Faça seu login</string>
+    <string name="passwordLogin">Sua senha!</string>
+    <string name="botaoLogar">Logar</string>
+    <string name="nomeLogin">Nome</string>
+    <string name="textoLogin">Que tal estudar no melhor curso de TI?</string>
+    <string name="textoLogin2">Então entre na nossa plataforma mobile.</string>
+
+</resources>
