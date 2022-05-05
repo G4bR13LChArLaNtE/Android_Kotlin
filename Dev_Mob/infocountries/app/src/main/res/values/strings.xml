@@ -1,0 +1,17 @@
+<resources>
+
+    <string name="app_name">infocountries</string>
+    <string name="esqueceu">Esqueceu a senha?</string>
+
+    <string name="login">Logar!</string>
+    <string name="nome">Seu usuário</string>
+    <string name="senha">Senha</string>
+    <string name="sair">Sair</string>
+    <string name="buscar">Buscar</string>
+    <string name="atualizar">Atualizar</string>
+    <string name="adicionar">Adicionar</string>
+
+    <string name="navigation_drawer_open">Open</string>
+    <string name="navigation_drawer_close">Close</string>
+
+</resources>
