@@ -1,0 +1,23 @@
+<resources>
+
+    <string name="app_name">infocountries</string>
+    <string name="esqueceu">Aqui você conhece o mundo!</string>
+
+    <string name="login">Logar!</string>
+    <string name="nome">Seu usuário</string>
+    <string name="senha">Senha</string>
+    <string name="sair">Sair</string>
+    <string name="buscar">Buscar</string>
+    <string name="atualizar">Atualizar</string>
+    <string name="adicionar">Adicionar</string>
+    <string name="action_remover">Remover</string>
+
+    <string name="navigation_drawer_open">Open</string>
+    <string name="navigation_drawer_close">Close</string>
+
+    <string name="API_KEY">AIzaSyATZebkb8E4oCrRhrKx8ofPpuPWy5Dhawc</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_maps_test">MapsActivityTest</string>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>
