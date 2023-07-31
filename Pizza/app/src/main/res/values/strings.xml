@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">App de Pizza</string>
+    <string name="search_title">Pesquisar</string>
+    <string name="All">Todas</string>
+    <string name="Chicken">Frango</string>
+    <string name="Pizza">Pizza</string>
+    <string name="Kebab">Kebab</string>
+
+</resources>
